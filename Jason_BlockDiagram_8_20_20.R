@@ -3,6 +3,7 @@
 #          based on demo by dylan beaudette and andrew brown
 
 # Load packages
+# my changes
 library(rayshader)
 library(rgl)
 library(raster)
